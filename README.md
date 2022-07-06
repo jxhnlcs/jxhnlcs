@@ -1,4 +1,4 @@
-### Opa! Prazer, John Lucas! :handshake:
+### Hello I'm, John Lucas! :handshake:
 
 <div align="center">
   <a href="https://github.com/jxhnlcs">
