@@ -1,4 +1,4 @@
 - 👋 Hi, I’m John Lucas
 - 👀 I’m interested in Front-end works
-- 🌱 I’m currently learning Python, MySQL, Java
+- 🌱 I’m currently learning Python, MySQL, JavaScript
 - 💞️ I’m looking to collaborate on any lol!
