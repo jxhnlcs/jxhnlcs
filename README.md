@@ -1,4 +1,8 @@
-- 👋 Hi, I’m John Lucas
-- 👀 I’m interested in Front-end works
-- 🌱 I’m currently learning Python, MySQL, JavaScript
-- 💞️ I’m looking to collaborate on any lol!
+### Opa! Prazer, <John Lucas>! :handshake:
+
+<div align="center">
+  <a href="https://github.com/<seu-nome>">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<seu-nome>&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-nome>&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+ </div>
