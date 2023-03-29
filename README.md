@@ -1,10 +1,9 @@
 ### Hello I'm, John Lucas! :handshake:
 
-<div align="center">
-  <a href="https://github.com/jxhnlcs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jxhnlcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnlcs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxhnlcs&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnlcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Snake animation](https://github.com/jxhnlcs/jxhnlcs/blob/output/github-contribution-grid-snake.svg)
   
