@@ -1,6 +1,6 @@
 ### Hello I'm, John Lucas! :handshake:
 
-🌱 Estou estudando Vue.js e React Native
+🌱 Atualmente estou estudando Vue.js e React Native
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxhnlcs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnlcs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
