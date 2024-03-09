@@ -2,7 +2,7 @@
   
 ### Hello I'm, John Lucas! :handshake:
 
-🌱 I'm currently studying Angular & Nuxt.js
+🌱 I'm currently studying Angular & AdonisJS
   </div>
 <div align="center">
  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
