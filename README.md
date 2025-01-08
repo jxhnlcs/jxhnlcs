@@ -2,9 +2,9 @@
   
 ### Hello I'm, John Lucas! :handshake:
 
-🏢 I work as a software developer at AgMind
+🏢 I work as a software developer at WeMind
 
-🌱 I'm currently studying Angular & AdonisJS
+🌱 I'm currently studying Svelte & Nuxt.js
 
 
 </div>
