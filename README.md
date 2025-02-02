@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <a href="https://discord.com/users/seuID" target="_blank">
+  <a href="https://discord.com/users/852939215503097896" target="_blank">
     <img width="45%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/852939215503097896?bg=1f1f1f&borderRadius=5px">
   </a>
 </div>
