@@ -6,7 +6,6 @@
 
 🌱 I'm currently studying Svelte & Nuxt.js
 
-
 </div>
 <div align="center">
  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
@@ -25,5 +24,13 @@
 <div align="center"> <br>
   <a href = "mailto:joohnzay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/john-lucas-a23880208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://john-portfolio-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> 
-</div> 
+  <a href="https://john-portfolio-zeta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://discord.com/users/seuID" target="_blank">
+    <img width="45%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/852939215503097896?bg=1f1f1f&borderRadius=5px">
+  </a>
+</div>
