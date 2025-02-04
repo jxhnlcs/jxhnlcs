@@ -4,7 +4,7 @@
 
 🏢 I work as a software developer at WeMind
 
-🌱 I'm currently studying Java, SpringBoot, Terraform & AWS Services
+🌱 I'm currently studying Java, SpringBoot, Terraform, AWS Services & IA
 
 </div>
 <div align="center">
