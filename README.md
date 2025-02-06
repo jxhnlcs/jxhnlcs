@@ -6,6 +6,8 @@
 
 🌱 I'm currently studying Java, SpringBoot, Terraform, AWS Services & IA
 
+🌎 **Languages:** 🇧🇷 Portuguese (Native) | 🇺🇸 English (B2)
+
 </div>
 <div align="center">
  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
