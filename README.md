@@ -28,11 +28,3 @@
   <a href="https://www.linkedin.com/in/john-lucas-a23880208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://bit.ly/johnportf" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://discord.com/users/852939215503097896" target="_blank">
-    <img width="45%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/852939215503097896?bg=1f1f1f&borderRadius=5px">
-  </a>
-</div>
