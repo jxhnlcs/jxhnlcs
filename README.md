@@ -2,7 +2,7 @@
   
 ### Hello I'm, John Lucas! :handshake:
 
-🏢 I work as a software developer at WeMind
+🏢 I work as a software developer at Capgemini
 
 🌱 I'm currently studying Java, SpringBoot, Terraform, AWS Services & IA
 
